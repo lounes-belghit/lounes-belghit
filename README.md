@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lounes</h1>
 <h3 align="center">love Ethical hacking & cybersecurity. Passionate coder in Python 🐍, JavaScript 🌐, and C++ 🧮</h3>
-
+- phd student working on cybersecurity
 - 🔭 I’m currently working on *Big data*
 
 - 🌱 I’m currently learning about *Key management in Big data*
