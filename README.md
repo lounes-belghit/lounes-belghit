@@ -17,9 +17,9 @@
 **`$ whoami`** — Lounes Belghit
 
 **`$ interests`** — IoT Security · Pentesting · Cryptography · Network Security
-                  ML/AI · Bug Bounty · Web Security · Rust
+                  ML/AI · Bug Bounty · Web Security · 
 
-**`$ langs`** — Python · JavaScript · TypeScript · C++ · Rust · Java · C
+**`$ langs`** — Python · JavaScript · TypeScript · C++ · Rust · Java · C . Rust
 
 **`$ contact`** — lounesbelghit16@gmail.com
                   [ORCID](https://orcid.org/0009-0008-3673-7844)
